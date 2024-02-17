@@ -44,7 +44,7 @@ const projectList = [
   {
     title: "Autograder",
     description:
-      "AI Assistant for teachers to grade the students submissions.",
+    "AI Assistant for teachers to grade the students submissions.",
     url: "https://autograder-frontend.netlify.app",
   },
   {
